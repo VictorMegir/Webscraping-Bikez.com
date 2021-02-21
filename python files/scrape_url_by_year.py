@@ -12,6 +12,6 @@ def update_by_year(year=datetime.datetime.now().year):
     year_models['Year'] = int(year)
     return year_models
 
-urls = pd.concat([update_by_year(), urls])
+urls = pd.concat([update_by_year(2020), urls])
 urls.reset_index()
 urls.to_csv('urls.csv', index=False)
