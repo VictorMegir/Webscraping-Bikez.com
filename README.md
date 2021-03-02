@@ -18,6 +18,11 @@ To extract the data I used the Python programming language as well as some of it
 ### Data
 Each model is uniquely defined by the model name as well as the year of release.<br>
 The same model can be relased in multiple years, thus several model names may appear multiple times.<br>
-There are several columns of the data that I wasn't able to clean due to a lack of knowledge on bikes.<br>
-For many columns where I expected to get a few distinct string values, I was med instead with a variety of string values with major inconsitencies that were difficult and time consumming to standardize.<br>
-Given how most of the entries had missing values for these columns, I decided to not go through the trouble cleaning them.
+
+For many columns where I expected to get a few distinct string values, I was met instead with a variety of string values with major inconsitencies that were difficult and time consumming to standardize.<br>
+Given how most of the entries had missing values for these columns, I decided to not go through the trouble cleaning them.<br>
+
+On top of that, there are several columns of the data that I wasn't able to clean due to a lack of knowledge on bikes.<br>
+In short, the user may need to perform additional cleaning before performing an analysis.
+
+The dataset can be found here: https://www.kaggle.com/victormegir/bikes-from-bikezcom
