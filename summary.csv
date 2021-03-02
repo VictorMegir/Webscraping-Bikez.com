@@ -18,82 +18,83 @@
 16,Rear tyre,1373,6885,21.69,object
 17,Front brakes,1852,1714,4.64,object
 18,Rear brakes,1360,1934,5.27,object
-19,Seat height,384,15210,64.96,object
-20,Color options,7800,15253,65.26,object
-21,Starter,3,12648,48.69,object
-22,Comments,5127,26044,207.03,object
-23,Engine details,1103,32714,553.54,object
-24,Compression Ratio,122,15053,63.86,object
-25,Valves per cylinder,14,22426,138.45,float64
-26,Ignition,997,22631,141.51,object
-27,Lubrication system,679,28702,289.28,object
-28,Clutch,1318,23856,161.54,object
-29,Driveline,1072,30814,394.55,object
-30,Greenhouse gases,416,32767,559.45,float64
-31,Emission details,280,34931,945.87,object
-32,Exhaust system,1318,32886,573.13,object
-33,Wheels,1622,29498,323.23,object
-34,Power/weight ratio,3845,23464,154.78,float64
-35,Factory warranty,425,33641,675.12,object
-36,Electrical,600,35774,1255.23,object
-37,Carrying capacity,574,36190,1486.85,object
-38,Instruments,619,34949,950.99,object
-39,Light,450,35967,1353.67,object
-40,Max RPM,77,37969,5796.79,float64
-41,Seat,339,33622,672.17,object
-42,0-100 km/h (0-62 mph),81,38256,10395.65,float64
-43,Modifications compared to previous model,242,38291,11498.80,object
-44,"60-140 km/h (37-87 mph), highest gear",88,38476,25997.30,float64
-45,1/4 mile (0.4 km),49,38542,47002.44,float64
-46,Front percentage of weight,76,38417,18558.94,float64
-47,Rear percentage of weight,21,38567,67661.40,float64
-48,Displacement ccm,1292,847,2.24,float64
-49,Displacement cubic inches,1200,847,2.24,float64
-50,Trail mm,148,31386,433.63,float64
-51,Trail inches,76,31386,433.63,float64
-52,Diameter mm,155,20609,114.40,float64
-53,Diameter inches,101,20609,114.40,float64
-54,Ground clearance mm,288,25116,185.93,float64
-55,Ground clearance inches,149,25116,185.93,float64
-56,Wheelbase mm,700,13857,55.95,float64
-57,Wheelbase inches,422,13857,55.95,float64
-58,Fuel capacity liters,450,7022,22.22,float64
-59,Fuel capacity gallons,355,7022,22.22,float64
-60,Front wheel travel mm,218,26909,229.70,float64
-61,Front wheel travel inches,127,26909,229.70,float64
-62,Dry weight kg,1237,16281,72.87,float64
-63,Dry weight pounds,1309,16281,72.87,float64
-64,"Weight incl. oil, gas, etc kg",879,23841,161.27,float64
-65,"Weight incl. oil, gas, etc pounds",933,23841,161.27,float64
-66,Overall height mm,562,22611,141.20,float64
-67,Overall height inches,353,22611,141.20,float64
-68,Overall length mm,867,17114,79.56,float64
-69,Overall length inches,557,17114,79.56,float64
-70,Overall width mm,557,20445,112.46,float64
-71,Overall width inches,368,20445,112.46,float64
-72,Reserve fuel capacity liters,101,35098,995.41,float64
-73,Reserve fuel capacity gallons,83,35098,995.41,float64
-74,Top speed km/h,394,25555,195.54,float64
-75,Top speed mph,384,25555,195.54,float64
-76,Alternate seat height mm,84,37805,4616.00,float64
-77,Alternate seat height inches,72,37805,4616.00,float64
-78,Oil capacity liters,56,35205,1029.69,float64
-79,Oil capacity quarts,41,35205,1029.69,float64
-80,Compression Enumerator,122,15053,63.86,float64
-81,Fuel consumption liters/100 km,417,32767,559.45,float64
-82,Fuel consumption km/liter,1,32767,559.45,float64
-83,Fuel consumption miles/gallon,358,32767,559.45,float64
-84,Automatic gearbox,2,0,0.00,bool
-85,Torque Nm,838,22535,140.06,float64
-86,Torque kgf-m,223,22535,140.06,float64
-87,Torque ft.lbs,731,22535,140.06,float64
-88,Torque Benchmark RPM,196,23730,159.33,float64
-89,Bore mm,303,9635,33.24,float64
-90,Stroke mm,413,9687,33.48,float64
-91,Bore inches,61,9635,33.24,float64
-92,Stroke inches,58,9687,33.48,float64
-93,Power HP,820,12357,47.04,float64
-94,Power kW,734,12357,47.04,float64
-95,Power Benchmark RPM,244,15514,67.13,float64
-96,Price as new USD,1269,31993,482.48,float64
-97,Price as new Euros,558,37661,3910.80,float64
+19,Color options,7800,15253,65.26,object
+20,Starter,3,12648,48.69,object
+21,Comments,5127,26044,207.03,object
+22,Engine details,1103,32714,553.54,object
+23,Compression Ratio,122,15053,63.86,object
+24,Valves per cylinder,14,22426,138.45,float64
+25,Ignition,997,22631,141.51,object
+26,Lubrication system,679,28702,289.28,object
+27,Clutch,1318,23856,161.54,object
+28,Driveline,1072,30814,394.55,object
+29,Greenhouse gases,416,32767,559.45,float64
+30,Emission details,280,34931,945.87,object
+31,Exhaust system,1318,32886,573.13,object
+32,Wheels,1622,29498,323.23,object
+33,Power/weight ratio,3845,23464,154.78,float64
+34,Factory warranty,425,33641,675.12,object
+35,Electrical,600,35774,1255.23,object
+36,Carrying capacity,574,36190,1486.85,object
+37,Instruments,619,34949,950.99,object
+38,Light,450,35967,1353.67,object
+39,Max RPM,77,37969,5796.79,float64
+40,Seat,339,33622,672.17,object
+41,0-100 km/h (0-62 mph),81,38256,10395.65,float64
+42,Modifications compared to previous model,242,38291,11498.80,object
+43,"60-140 km/h (37-87 mph), highest gear",88,38476,25997.30,float64
+44,1/4 mile (0.4 km),49,38542,47002.44,float64
+45,Front percentage of weight,76,38417,18558.94,float64
+46,Rear percentage of weight,21,38567,67661.40,float64
+47,Displacement ccm,1292,847,2.24,float64
+48,Displacement cubic inches,1200,847,2.24,float64
+49,Trail mm,148,31386,433.63,float64
+50,Trail inches,76,31386,433.63,float64
+51,Diameter mm,155,20609,114.40,float64
+52,Diameter inches,101,20609,114.40,float64
+53,Ground clearance mm,288,25116,185.93,float64
+54,Ground clearance inches,149,25116,185.93,float64
+55,Wheelbase mm,700,13857,55.95,float64
+56,Wheelbase inches,422,13857,55.95,float64
+57,Fuel capacity liters,450,7022,22.22,float64
+58,Fuel capacity gallons,355,7022,22.22,float64
+59,Front wheel travel mm,218,26909,229.70,float64
+60,Front wheel travel inches,127,26909,229.70,float64
+61,Dry weight kg,1237,16281,72.87,float64
+62,Dry weight pounds,1309,16281,72.87,float64
+63,"Weight incl. oil, gas, etc kg",879,23841,161.27,float64
+64,"Weight incl. oil, gas, etc pounds",933,23841,161.27,float64
+65,Overall height mm,562,22611,141.20,float64
+66,Overall height inches,353,22611,141.20,float64
+67,Overall length mm,867,17114,79.56,float64
+68,Overall length inches,557,17114,79.56,float64
+69,Overall width mm,557,20445,112.46,float64
+70,Overall width inches,368,20445,112.46,float64
+71,Reserve fuel capacity liters,101,35098,995.41,float64
+72,Reserve fuel capacity gallons,83,35098,995.41,float64
+73,Top speed km/h,394,25555,195.54,float64
+74,Top speed mph,384,25555,195.54,float64
+75,Alternate seat height mm,84,37805,4616.00,float64
+76,Alternate seat height inches,72,37805,4616.00,float64
+77,Oil capacity liters,56,35205,1029.69,float64
+78,Oil capacity quarts,41,35205,1029.69,float64
+79,Seat height mm,362,15210,64.96,float64
+80,Seat height inches,220,15210,64.96,float64
+81,Compression Enumerator,122,15053,63.86,float64
+82,Fuel consumption liters/100 km,417,32767,559.45,float64
+83,Fuel consumption km/liter,1,32767,559.45,float64
+84,Fuel consumption miles/gallon,358,32767,559.45,float64
+85,Automatic gearbox,2,0,0.00,bool
+86,Torque Nm,838,22535,140.06,float64
+87,Torque kgf-m,223,22535,140.06,float64
+88,Torque ft.lbs,731,22535,140.06,float64
+89,Torque Benchmark RPM,196,23730,159.33,float64
+90,Bore mm,303,9635,33.24,float64
+91,Stroke mm,413,9687,33.48,float64
+92,Bore inches,61,9635,33.24,float64
+93,Stroke inches,58,9687,33.48,float64
+94,Power HP,820,12357,47.04,float64
+95,Power kW,734,12357,47.04,float64
+96,Power Benchmark RPM,244,15514,67.13,float64
+97,Price as new USD,1269,31993,482.48,float64
+98,Price as new Euros,558,37661,3910.80,float64
